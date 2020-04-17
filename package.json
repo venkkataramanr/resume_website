@@ -1,0 +1,7 @@
+{
+  "name": "resume-website",
+  "version": "0.1.0",
+  "dependencies": {
+    "serverless": "1.67.3"
+  }
+}
